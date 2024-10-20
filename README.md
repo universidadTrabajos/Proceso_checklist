@@ -1,4 +1,6 @@
 
+![LogoMosta](https://github.com/user-attachments/assets/6670242c-6d49-436c-9f6c-c5d4548325b5)
+
 PASOS PARA EL USO : En el bash git clone (elhtml)
 
 cd/Proceso_checklist
