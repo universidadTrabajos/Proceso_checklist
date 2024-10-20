@@ -1,0 +1,23 @@
+{
+  "name": "proceso_checklist",
+  "version": "1.0.0",
+  "description": "Si van a subir un cambio, Si no ven cambien de rama la develop primero.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarjhonme01/Proceso_checklist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarjhonme01/Proceso_checklist/issues"
+  },
+  "homepage": "https://github.com/cesarjhonme01/Proceso_checklist#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
