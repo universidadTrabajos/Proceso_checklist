@@ -12,8 +12,8 @@ develop-cesar version 1.0.0 (checklist de notas)
 
 **************************************************
 ## Antes del uso :
-npm install 
-y npm start
+npm install (cuando veas nodemodules lo tienes)
+y npm start (para alzarlo)
 
 **************************************************
 
