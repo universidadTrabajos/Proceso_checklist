@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edita si quieres <code>Pero solo esto --src/App.js</code> y guarda en tu rama.
+          Edita si quieres <code>Pero crea tu rama primero este es el base</code> 
         </p>
         <a
           className="App-link"
