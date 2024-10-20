@@ -1,0 +1,16 @@
+.rotating-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rotating-image {
+    width: 200px; /* Ajusta el tamaño según sea necesario */
+    height: auto;
+    animation: spin 3s linear infinite; /* La animación gira la imagen */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
