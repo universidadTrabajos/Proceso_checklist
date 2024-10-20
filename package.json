@@ -1,23 +1,32 @@
 {
   "name": "proceso_checklist",
-  "version": "1.0.0",
-  "description": "Si van a subir un cambio, Si no ven cambien de rama la develop primero.",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cesarjhonme01/Proceso_checklist.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cesarjhonme01/Proceso_checklist/issues"
-  },
-  "homepage": "https://github.com/cesarjhonme01/Proceso_checklist#readme",
+  "version": "0.1.0",
   "dependencies": {
-    "express": "^4.21.1"
+    "react": "^18",
+    "react-dom": "^18",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
