@@ -3,8 +3,6 @@ import { TodoProvider } from '../TodoContext';
 import { AppUI } from './AppUI';
 
 
-
-
 function App() {
   return (
     <TodoProvider>
@@ -13,10 +11,10 @@ function App() {
       
     </TodoProvider>
     
-  
-    
   );
+  
 }
+
 
 export default App;
 
